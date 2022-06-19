@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f58ff868751612745a58aa3b8b7b7908
+  - enabled: 1
+    path: Assets/Scenes/solarSistem.unity
+    guid: c3cbb27028d090e4289eb66db838280b
+  - enabled: 1
+    path: Assets/Scenes/pilih.unity
+    guid: 45591a81df7d3c347b25f13cb0894644
+  - enabled: 1
+    path: Assets/Scenes/merkurius.unity
+    guid: bcadd4b7fc27669419f248913b67662a
+  - enabled: 1
+    path: Assets/Scenes/venus.unity
+    guid: b15339d710a8d2d4b8e8b4f30c572f22
+  - enabled: 1
+    path: Assets/Scenes/bumi.unity
+    guid: bb1cf834af498e945bb3bc622e3c5093
+  - enabled: 1
+    path: Assets/Scenes/mars.unity
+    guid: f31d1985d0243a54a9739afa775f7db2
+  - enabled: 1
+    path: Assets/Scenes/jupiter.unity
+    guid: 1ce963dd7b09d4e469af95e97a6f0e8e
+  - enabled: 1
+    path: Assets/Scenes/saturnus.unity
+    guid: 2dee5cc154b502f4d8462a28cb3642df
+  - enabled: 1
+    path: Assets/Scenes/uranus.unity
+    guid: a34e48065ed97b242831ce673ccc6353
+  - enabled: 1
+    path: Assets/Scenes/neptunus.unity
+    guid: bf128ee14932a6e49a87a2e41e136fcb
+  m_configObjects: {}
